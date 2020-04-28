@@ -23,3 +23,7 @@ npm run dev
 Attention: <br />
 To use this backend you need to create an instance of MongoDB and BI Connector.
 Please see the documentation (README.md) of the following project **emergency_Dashboard**
+
+
+## Author:
+* Giulia Gallico - [codeAllien](https://github.com/codeAllien)
