@@ -3,7 +3,7 @@
 This project is created for the Call for Code 2020 Challenge to respond to the CODIV-19 pandemic and and is part of an infrastructure to collect data and monitor the patients of CODIV-19
 
 # Emergency-Call
-## Real-Time Backend for supporting the Angular/Electron application (emergencyDashboard)
+## Real-Time Backend for supporting the Angular/ Electron application (emergencyDashboard)
 This CUBE.JS Application allows a continuous connection through Websocket between the front-end (Angular/Electron application) and the database (MongoDB).
 With this Framework the front-end will automatically be updated whenever a user push the data into the database.
 
@@ -20,5 +20,6 @@ npm run dev
 ````
 5. Now you server is up and running at port **http://localhost:4000/**
 
-Attention: To use this backend you need to create an instance of MongoDB and BI Connector.
-           Please see the documentation (README.md) of the following project **emergency_Dashboard**
+Attention: <br />
+To use this backend you need to create an instance of MongoDB and BI Connector.
+Please see the documentation (README.md) of the following project **emergency_Dashboard**
